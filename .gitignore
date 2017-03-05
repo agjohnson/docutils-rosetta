@@ -1,0 +1,6 @@
+.cache/
+.ropeproject/
+.tox
+dist/
+docutils_rosetta.egg-info/
+*.pyc
